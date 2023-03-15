@@ -1,0 +1,7 @@
+flask-wtf
+sqlalchemy
+flask
+flask-login
+SQLAlchemy-serializer
+flask-restful
+waitress
